@@ -28,7 +28,7 @@ Scraping IMDB for the movies across a decade (2010-2020) and compare the metasco
 
 ●	Create a Pandas Dataframe to hold the info scraped (movie, years imdb_ratings, metascore, votes)
 
-●	Write the Pandas Dataframe to a CSV
+●	Write the Pandas Dataframe to a CSV file
 
 ## Visualize the data with matplotlib
 
