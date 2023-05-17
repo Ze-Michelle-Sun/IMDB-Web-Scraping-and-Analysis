@@ -1,3 +1,4 @@
+![image](https://github.com/Ze-Michelle-Sun/IMDB-Web-Scraping-and-Analysis/assets/110506170/13bc0d8a-e8af-4eac-874b-0eff7caaf78f)
 # IMDB Webscraping and Analysis
 In this project, scrape multiple web pages with Python using BeautifulSoup and requests. Then perform some simple analysis using pandas and matplotlib.
 Scraping IMDB for the movies across a decade (2010-2020) and compare the metascore and the IMDB rating.  
